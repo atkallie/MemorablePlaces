@@ -1,0 +1,18 @@
+/* 
+  NotesForProject.strings
+  MemorablePlaces
+
+  Created by Ahmed T Khalil on 1/20/17.
+  Copyright © 2017 kalikans. All rights reserved.
+*/
+
+/*
+Add the navigation controller and check off 'Is Initial View Controller'
+ 
+The button that you add is a 'Bar Button Item' and you drag and drop it to the layout bar to place it on the toolbar (as opposed to directly on the screen)
+ 
+ The file that you create is a subclass of a UITableViewController, not a UIViewController like you're normally used to
+
+
+Realize that this is incomplete because it does not recognize panning (keeps re-homing to current location if you drag after pressing the '+' button); will try to return to this once I learn more about gesture recognizers
+*/
